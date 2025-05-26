@@ -17,10 +17,10 @@ docker run --rm -v "O:/Downloads/youtube-downloader-folder:/downloads" youtube-d
 
 ## Details
 
-It uses
-https://pypi.org/project/yt-dlp/
+It uses https://pypi.org/project/yt-dlp/ version 2025.5.22
+- https://pypi.org/project/yt-dlp/2025.5.22/
+
 
 and
-https://ffmpeg.org/
-Specific version
-https://ffmpeg.org/releases/ffmpeg-4.2.11.tar.xz.asc
+https://ffmpeg.org/ version 4.2.11
+- https://ffmpeg.org/releases/ffmpeg-4.2.11.tar.xz.asc
