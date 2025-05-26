@@ -17,6 +17,8 @@ docker run --rm -v "O:/Downloads/youtube-downloader-folder:/downloads" youtube-d
 
 ## Details
 
+Note, it works on Windows Machine with Intel processor.
+
 It uses https://pypi.org/project/yt-dlp/ version 2025.5.22
 - https://pypi.org/project/yt-dlp/2025.5.22/
 
