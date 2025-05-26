@@ -22,5 +22,5 @@ It uses https://pypi.org/project/yt-dlp/ version 2025.5.22
 
 
 and
-https://ffmpeg.org/ version 4.2.11
-- https://ffmpeg.org/releases/ffmpeg-4.2.11.tar.xz.asc
+https://ffmpeg.org/ version 7:5.1.6-0+deb12u1
+- https://packages.debian.org/source/stable/ffmpeg
