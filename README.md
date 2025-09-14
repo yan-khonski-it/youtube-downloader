@@ -12,7 +12,7 @@ docker build -t youtube-downloader .
 
 ## Run
 ```commandline
-docker run --rm -v "O:/Downloads/youtube-downloader-folder:/downloads" youtube-downloader -x --audio-format mp3 "https://youtu.be/-dvosAM7p9A?si=TkHXYUIY8orBoCsQ"
+docker run --rm -v "B:/Downloads/youtube-downloader-folder:/downloads" youtube-downloader -x --audio-format mp3 https://youtu.be/CQIt6-IrVyY?si=K-tjFbXs7oBsYPTd
 ```
 
 ## Details
